@@ -1,0 +1,21 @@
+.color-1 {
+    color: red;
+}
+
+/* RedGreenBlue  00 - ff */
+.color-2 {
+    color: #0000ff;
+}
+
+.color-3 {
+    color: #ddd;
+}
+
+/* 0 - 255 */
+.color-4 {
+    color: rgb(0, 255, 0);
+}
+
+.color-5 {
+    color: rgb(150, 0, 0, 1);
+}

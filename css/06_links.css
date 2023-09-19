@@ -1,0 +1,37 @@
+a {
+    color: #333;
+    text-decoration: none;
+    /* transition: all .2s; */
+}
+
+a:hover {
+    color: orange;
+    /* font-size: 2rem; */
+}
+
+/* a:visited {
+    color: red;
+} */
+
+a:active {
+    color: blue;
+}
+
+/* .work:hover {
+    background: red;
+} */
+
+.btn {
+    background: #111;
+    padding: 5px 20px;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: inherit;
+}
+
+.btn:hover {
+    opacity: .8;
+    color: orange;
+}
